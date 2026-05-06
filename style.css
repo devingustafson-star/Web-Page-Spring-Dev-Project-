@@ -1,0 +1,49 @@
+body {
+    background-color: #111827;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: cyan;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: gold;
+    margin-bottom: 10px;
+}
+
+.box {
+    background-color: #1f2937;
+    border: 3px solid cyan;
+    width: 80%;
+    margin: 25px auto;
+    padding: 20px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+    font-size: 18px;
+}
+
+li {
+    margin: 10px 0;
+}
+
+img {
+    width: 70%;
+    border: 2px solid white;
+    margin-top: 10px;
+}
+
