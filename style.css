@@ -11,13 +11,17 @@ h1 {
     color: cyan;
     font-size: 40px;
     margin-bottom: 20px;
+
 }
 
 h2 {
     color: gold;
     margin-bottom: 10px;
 }
-
+h3{
+    font-size: 30px;
+    color: rgb(49, 170, 49);
+}
 .box {
     background-color: #1f2937;
     border: 3px solid cyan;
